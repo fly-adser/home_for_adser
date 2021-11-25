@@ -1,14 +1,7 @@
-# 一个广告策略算法工程师的自我修养
-## 一、预估服务</br>
+# OCPX优化
 
-## 二、智能出价</br>
+## 成本稳定性优化 
+- ![PID控制算法](https://mp.weixin.qq.com/s/-jV1I4mK8abwhAiWTCkTrg)
 
-## 三、重排序</br>
-
-## 四、OCPX优化</br>
-### 4.1 成本稳定性优化</br>
-### 4.2 冷启动优化</br>
-
-## 五、工程能力</br>
-### 5.1 日常开发
-### 5.2 大数据开发
+## 冷启动优化
+- Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments(2020) 
