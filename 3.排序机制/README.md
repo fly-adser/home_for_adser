@@ -1,14 +1,3 @@
-# 一个广告策略算法工程师的自我修养
-## 一、预估服务</br>
+# 排序机制
 
-## 二、智能出价</br>
-
-## 三、重排序</br>
-
-## 四、OCPX优化</br>
-### 4.1 成本稳定性优化</br>
-### 4.2 冷启动优化</br>
-
-## 五、工程能力</br>
-### 5.1 日常开发
-### 5.2 大数据开发
+- Optimal Delivery with Budget Constraint in E-Commerce Advertising(2019)
