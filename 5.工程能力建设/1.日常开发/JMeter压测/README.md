@@ -6,29 +6,29 @@
 ## 安装JMeter
 1.配置JDK1.8，https://www.jianshu.com/p/a85658902f26</br>
 2.下载二进制版本的JMeter，http://jmeter.apache.org/download_jmeter.cgi</br>
-![下载JMeter](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/1.png)
+![下载JMeter](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/1.png)
 3.解压后，进入bin目录，sh jmeter启动
 
 ## 开始压测
 ### 1.新建一个线程组并设置参数
-![新建线程组](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/2.png)
+![新建线程组](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/2.png)
 ~</br>
-![设置线程组参数](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/3.png)
+![设置线程组参数](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/3.png)
 
 ### 2.新建http请求默认值
-![新建http请求默认值](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/4.png)
+![新建http请求默认值](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/4.png)
 ~</br>
-![设置参数](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/5.png)
+![设置参数](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/5.png)
 
 ### 3.新建压测http请求
-![新建http请求](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/6.png)
+![新建http请求](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/6.png)
 ~</br>
-![设置参数](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/7.png)
+![设置参数](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/7.png)
 
 ### 4.新建监听器
-![新建监听器](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/8.png)
+![新建监听器](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/8.png)
 ~</br>
-![查看结果](https://github.com/yaoleiliu/Great-Development-Tools/blob/master/JMeter%E5%8E%8B%E6%B5%8B/image/9.png)
+![查看结果](https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/JMeter%E5%8E%8B%E6%B5%8B/image/9.png)
 
 ### 5.批量设置参数
 https://www.cnblogs.com/puresoul/p/4742120.html
