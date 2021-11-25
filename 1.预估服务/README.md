@@ -7,6 +7,16 @@ python xxx.py
 Anaways, I hope it is useful for you. If you want to discuss with me on any ideas, you can concat me with wechat 718229223.    
 
 # algorithm
+- XGBoost: A Scalable Tree Boosting System</br>
+paper link：[XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)</br>
+chinese introduction：[[广告机制]-模型篇：XGBoost: A Scalable Tree Boosting System](https://zhuanlan.zhihu.com/p/396055555)
+</br>
+
+- GBDT+LR在点击率预估中的实践</br>
+paper link：[Practical Lessons from Predicting Clicks on Ads at Facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)</br>
+chinese introduction：[[广告机制]-模型篇：GBDT+LR在点击率预估中的实践](https://www.zhihu.com/column/c_1330252639594876928)
+</br>
+
 - Factorization Machines(FM) </br>
 paper link：[Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)</br>
 chinese introduction：[[广告机制]-模型篇：适用于稀疏数据场景的MF和FM算法](https://zhuanlan.zhihu.com/p/397166601)</br>
