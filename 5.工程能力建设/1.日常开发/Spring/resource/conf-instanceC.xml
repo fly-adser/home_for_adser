@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+       <!--定义实例工厂Bean-->
+       <bean id="helloWorldInstanceFactory" class="springIOC.instanceC.HelloWorldInstanceFactory" />
+
+       <!--使用实例工程Bean创建Bean-->
+       <bean id="helloWorldInstance" factory-bean="helloWorldInstanceFactory" factory-method="newInstance">
+           <constructor-arg index="0" value="Hello Instance Factory"></constructor-arg>
+       </bean>
+</beans>
