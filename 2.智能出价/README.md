@@ -1,14 +1,6 @@
-# 一个广告策略算法工程师的自我修养
-## 一、预估服务</br>
+# 智能出价
 
-## 二、智能出价</br>
-
-## 三、重排序</br>
-
-## 四、OCPX优化</br>
-### 4.1 成本稳定性优化</br>
-### 4.2 冷启动优化</br>
-
-## 五、工程能力</br>
-### 5.1 日常开发
-### 5.2 大数据开发
+- Optimized Cost per Click in Taobao Display Advertising(2017)
+- Bid Optimization by Multivariable Control in Display Advertising(2019)
+- Optimized Cost per Mille in Feeds Advertising（2020）
+- A Unified Solution to Constrained Bidding in Online Display Advertising(2021)
