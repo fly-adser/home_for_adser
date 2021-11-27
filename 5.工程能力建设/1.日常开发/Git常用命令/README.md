@@ -67,5 +67,7 @@ git diff 分支 分支：比较两个分支最新提交版本的差异
 ```shell
 git stash：储存信息，并使工作区返回到未修改的状态
 git stash list：查看所有储存信息
-git stash apply stash@num：应用
+git stash apply stash@num：应用储存信息，后面不加名字时，则应用最近一次储存的信息
+git stash pop stash@num：应用并删除储存信息
+git stash drop stash@num：删除储存信息
 ```
