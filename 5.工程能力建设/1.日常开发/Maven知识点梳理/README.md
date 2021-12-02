@@ -26,7 +26,7 @@ Maven是工程开发中常用的项目管理工具，借着最近工作中需要
 **部署：** 将打成的包放到服务器上准备运行</br>
 
 <center>
-<img src="https://files.mdnice.com/user/8785/3b2da148-98cf-497a-ab16-375fc0ca7bb1.png" width="500" height="280"/>
+<img src="https://github.com/yaoleiliu/algorithm_strategy_for_advertise/blob/main/5.%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E5%BB%BA%E8%AE%BE/1.%E6%97%A5%E5%B8%B8%E5%BC%80%E5%8F%91/Maven%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86/image/1.png" width="500" height="280"/>
 </center>
 
 如上图所示，当工程项目寻找自身所依赖的jar包时，首先会到本地仓库找，如果找不到，再到远程仓库找；远程仓库又分为私服仓库和中央仓库，其中私服仓库通常是公司内部或部门内部所搭建的仓库，中央仓库是指Maven中央仓库
