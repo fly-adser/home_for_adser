@@ -7,3 +7,4 @@
 - Bid Optimization by Multivariable Control in Display Advertising(2019)
 - Optimized Cost per Mille in Feeds Advertising（2020）
 - A Unified Solution to Constrained Bidding in Online Display Advertising(2021)
+- [【重磅推荐】RTB论文梳理及精讲一](https://zhuanlan.zhihu.com/p/443213862)
