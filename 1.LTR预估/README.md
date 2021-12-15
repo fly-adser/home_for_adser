@@ -1,12 +1,15 @@
-# introduction
-The purpose of this project is implementing the machine learning algorithm by tensorflow. If you have an interest on it and want to run it, you can carry out following the code:</br>
+# 1. introduction
+The purpose of this project is implementing the learning to ranking algorithm by tensorflow. If you have an interest on it and want to run it, you can carry out following the code:</br>
 ```shell 
 python xxx.py
 ```
 
 Anaways, I hope it is useful for you. If you want to discuss with me on any ideas, you can concat me with wechat 718229223.    
 
-# algorithm
+# 2. algorithm
+
+## 2.1 Point-Wise
+
 - XGBoost: A Scalable Tree Boosting System</br>
 paper link：[XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)</br>
 chinese introduction：[[广告机制]-模型篇：XGBoost: A Scalable Tree Boosting System](https://zhuanlan.zhihu.com/p/396055555)
@@ -33,3 +36,8 @@ the implementation by tensorflow：model/wide_and_deep.py
 paper link: [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://xueshu.baidu.com/usercenter/paper/show?paperid=6a4c0e62ee719cd8ecdcc105f8b762d9&site=xueshu_se)</br> 
 chinese introduction: [[广告机制]-模型篇：CTR预估之DeepFM算法](https://zhuanlan.zhihu.com/p/398821617)</br>
 the implementation by tensorflow：model/deepFM.py
+
+## 2.2 Pair-Wise  
+
+
+## 2.3 List-Wise
