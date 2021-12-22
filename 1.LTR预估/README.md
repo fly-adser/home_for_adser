@@ -10,30 +10,25 @@ Anaways, I hope it is useful for you. If you want to discuss with me on any idea
 
 ## 2.1 Point-Wise
 
-- XGBoost: A Scalable Tree Boosting System</br>
-paper link：[XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754)</br>
+- (KDD2016, Tianqi Chen)XGBoost-A Scalable Tree Boosting System</br>
 chinese introduction：[[广告机制]-模型篇：XGBoost: A Scalable Tree Boosting System](https://zhuanlan.zhihu.com/p/396055555)
 </br>
 
-- GBDT+LR在点击率预估中的实践</br>
-paper link：[Practical Lessons from Predicting Clicks on Ads at Facebook](https://research.fb.com/wp-content/uploads/2016/11/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf)</br>
+- (KDD2014, Facebook)Practical Lessons from Predicting Clicks on Ads at Facebook</br>
 chinese introduction：[[广告机制]-模型篇：GBDT+LR在点击率预估中的实践](https://www.zhihu.com/column/c_1330252639594876928)
 </br>
 
-- Factorization Machines(FM) </br>
-paper link：[Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)</br>
+- (ICDM2010, Steffen Rendle)Factorization Machines</br>
 chinese introduction：[[广告机制]-模型篇：适用于稀疏数据场景的MF和FM算法](https://zhuanlan.zhihu.com/p/397166601)</br>
 the implementation by tensorflow：model/fm.py
 </br>
 
-- Wide & Deep</br>
-paper link：[Wide & Deep Learning for Recommender Systems](https://xueshu.baidu.com/usercenter/paper/show?paperid=7f6c393d1e5f37a50060aaebaac39cf9)</br> 
+- (DLRS2016, Geogle)Wide & Deep Learning for Recommender Systems</br> 
 chinese introduction：[[广告机制]-模型篇：CTR预估之Wide&Deep算法](https://zhuanlan.zhihu.com/p/398061940)</br>
 the implementation by tensorflow：model/wide_and_deep.py
 </br>
 
-- deepFM</br> 
-paper link: [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://xueshu.baidu.com/usercenter/paper/show?paperid=6a4c0e62ee719cd8ecdcc105f8b762d9&site=xueshu_se)</br> 
+- (IJCAI2017, Huawei)DeepFM-A Factorization-Machine based Neural Network for CTR Prediction</br> 
 chinese introduction: [[广告机制]-模型篇：CTR预估之DeepFM算法](https://zhuanlan.zhihu.com/p/398821617)</br>
 the implementation by tensorflow：model/deepFM.py
 
