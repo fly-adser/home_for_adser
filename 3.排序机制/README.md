@@ -1,3 +1,8 @@
 # 排序机制
 
-- Optimal Delivery with Budget Constraint in E-Commerce Advertising(2019), [阅读笔记](https://zhuanlan.zhihu.com/p/371528105)
+## paper
+已经阅读学习过的出价相关论文pdf版本
+</br>
+
+## learning note 
+出价相关论文及其知识点学习笔记
