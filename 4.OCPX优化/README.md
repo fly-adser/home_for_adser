@@ -1,7 +1,8 @@
 # OCPX优化
 
-## 成本稳定性优化 
-- [PID控制算法](https://mp.weixin.qq.com/s/-jV1I4mK8abwhAiWTCkTrg)
+## paper
+已经阅读学习过的出价相关论文pdf版本
+</br>
 
-## 冷启动优化
-- Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments(2020) 
+## learning note 
+出价相关论文及其知识点学习笔记
