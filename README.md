@@ -2,33 +2,33 @@
 更多资料和学习笔记，请移步博客：[Fly Adser](https://fly-adser.top/)
 
  ## 智能出价
- A Unified Solution to Constrained Bidding in Online Display Advertising  
- Optimized Cost per Click in Taobao Display Advertising  
- Bid Optimization by Multivariable Control in Display Advertising  
- Optimized Cost per Mille in Feeds Advertising  
+ [KDD2021, Alibaba]. A Unified Solution to Constrained Bidding in Online Display Advertising    
+ [IJCAI2017, Alibaba]. Optimized Cost per Click in Taobao Display Advertising   
+ [KDD2019, Alibaba]. Bid Optimization by Multivariable Control in Display Advertising  
+ [AAMAS2020, ByteDance]. Optimized Cost per Mille in Feeds Advertising   
  [RTB论文梳理及总结](https://fly-adser.top/2021/12/29/RTBpapers/)
  
  ## 排序策略
- Optimal Delivery with Budget Constraint in E-Commerce Advertising  
- Ads Allocation in Feed via Constrained Optimization  
- Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments  
+ [ORSUM2019, Alibaba]. Optimal Delivery with Budget Constraint in E-Commerce Advertising    
+ [KDD2020, LinkedIn]. Ads Allocation in Feed via Constrained Optimization    
+ [2020, KuaiShou]. Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments    
  [多约束条件下的排序算法设计](https://fly-adser.top/2021/12/29/sortEquation/)
  
  ## CTR预估
- Factorization Machines  
- Field-aware Factorization Machines for CTR Prediction  
- Wide & Deep Learning for Recommender Systems  
- DeepFM: A Factorization-Machine based Neural Network for CTR Prediction  
- Attentional Factorization Machines-Learning the Weight of Feature Interactions via Attention Networks  
- Deep & Cross Network for Ad Click Predictions
- xDeepFM-Combining Explicit and Implicit Feature Interactions for Recommender Systems 
- Practical Lessons from Predicting Clicks on Ads at Facebook     
- Product-based Neural Networks for User Response Prediction
+ [ICDM2010, Steffen Rendle]. Factorization Machines   
+ [KDD2014, Facebook]. Practical Lessons from Predicting Clicks on Ads at Facebook  
+ [RecSys2016]. Field-aware Factorization Machines for CTR Prediction      
+ [DLRS2016, Geogle]. Wide & Deep Learning for Recommender Systems  
+ [TOIS2016]. Product-based Neural Networks for User Response Prediction  
+ [IJCAI2017, Huawei]. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction  
+ [IJCAJ2017]. Attentional Factorization Machines-Learning the Weight of Feature Interactions via Attention Networks  
+ [KDD2017, Geogle]. Deep & Cross Network for Ad Click Predictions  
+ [KDD2018, Microsoft]. xDeepFM-Combining Explicit and Implicit Feature Interactions for Recommender Systems    
  
  ## CVR预估
- Entire Space Multi-Task Model-An Effective Approach for Estimating Post-Click Conversion Rate  
+ [SIGIR2018, Alibaba]. Entire Space Multi-Task Model-An Effective Approach for Estimating Post-Click Conversion Rate
  
  ## LTR预估
- From RankNet to LambdaRank to LambdaMART-An overview  
- Learning a Deep Listwise Context Model for Ranking Refinement  
+ [Report2010, MSRA]. From RankNet to LambdaRank to LambdaMART-An overview  
+ [SIGIR2018]. Learning a Deep Listwise Context Model for Ranking Refinement   
  [LTR预估：从慕名而来到一探深浅](https://fly-adser.top/2021/12/30/LTRpartA/)
