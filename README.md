@@ -2,10 +2,10 @@
 更多资料和学习笔记，请移步博客：[Fly Adser](https://fly-adser.top/)
 
  ## 智能出价
- [KDD2021, Alibaba]. A Unified Solution to Constrained Bidding in Online Display Advertising    
  [IJCAI2017, Alibaba]. Optimized Cost per Click in Taobao Display Advertising   
  [KDD2019, Alibaba]. Bid Optimization by Multivariable Control in Display Advertising  
  [AAMAS2020, ByteDance]. Optimized Cost per Mille in Feeds Advertising   
+ [KDD2021, Alibaba]. A Unified Solution to Constrained Bidding in Online Display Advertising      
  [RTB论文梳理及总结](https://fly-adser.top/2021/12/29/RTBpapers/)
  
  ## 排序策略
