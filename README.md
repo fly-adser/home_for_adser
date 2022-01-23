@@ -11,6 +11,7 @@
  ## 排序策略
  Optimal Delivery with Budget Constraint in E-Commerce Advertising  
  Ads Allocation in Feed via Constrained Optimization  
+ Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments  
  [多约束条件下的排序算法设计](https://fly-adser.top/2021/12/29/sortEquation/)
  
  ## CTR预估
