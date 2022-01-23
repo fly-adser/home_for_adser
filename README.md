@@ -19,9 +19,9 @@
  Wide & Deep Learning for Recommender Systems  
  DeepFM: A Factorization-Machine based Neural Network for CTR Prediction  
  Attentional Factorization Machines-Learning the Weight of Feature Interactions via Attention Networks  
- Practical Lessons from Predicting Clicks on Ads at Facebook  
- Deep & Cross Network for Ad Click Predictions  
- xDeepFM-Combining Explicit and Implicit Feature Interactions for Recommender Systems   
+ Deep & Cross Network for Ad Click Predictions
+ xDeepFM-Combining Explicit and Implicit Feature Interactions for Recommender Systems 
+ Practical Lessons from Predicting Clicks on Ads at Facebook     
  Product-based Neural Networks for User Response Prediction
  
  ## CVR预估
