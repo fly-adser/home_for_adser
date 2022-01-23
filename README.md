@@ -23,7 +23,8 @@
  [IJCAI2017, Huawei]. DeepFM: A Factorization-Machine based Neural Network for CTR Prediction  
  [IJCAJ2017]. Attentional Factorization Machines-Learning the Weight of Feature Interactions via Attention Networks  
  [KDD2017, Geogle]. Deep & Cross Network for Ad Click Predictions  
- [KDD2018, Microsoft]. xDeepFM-Combining Explicit and Implicit Feature Interactions for Recommender Systems    
+ [KDD2018, Microsoft]. xDeepFM-Combining Explicit and Implicit Feature Interactions for Recommender Systems  
+ [广告pCTR校准机制](https://fly-adser.top/2022/01/20/ctrcali/)
  
  ## CVR预估
  [SIGIR2018, Alibaba]. Entire Space Multi-Task Model-An Effective Approach for Estimating Post-Click Conversion Rate
