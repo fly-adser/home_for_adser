@@ -30,8 +30,10 @@
  [SIGIR2018, Alibaba]. Entire Space Multi-Task Model-An Effective Approach for Estimating Post-Click Conversion Rate
  
  ## LTR预估
+ [ICML2005, Microsoft]. Learning to Rank using Gradient Descent  
  [Report2010, MSRA]. From RankNet to LambdaRank to LambdaMART-An overview  
- [SIGIR2018]. Learning a Deep Listwise Context Model for Ranking Refinement   
+ [SIGIR2018]. Learning a Deep Listwise Context Model for Ranking Refinement  
+ [IJCAJ2018, Alibaba]. Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search  
  [LTR预估：从慕名而来到一探深浅](https://fly-adser.top/2021/12/30/LTRpartA/)
  
  ## Other MLs 
