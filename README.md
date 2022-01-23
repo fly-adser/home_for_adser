@@ -14,6 +14,9 @@
  [2020, KuaiShou]. *Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments*    
  [多约束条件下的排序算法设计](https://fly-adser.top/2021/12/29/sortEquation/)
  
+ ## 重排算法
+ [IJCAJ2018, Alibaba]. *Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search*  
+ 
  ## CTR预估
  [ICDM2010, Steffen Rendle]. *Factorization Machines*   
  [KDD2014, Facebook]. *Practical Lessons from Predicting Clicks on Ads at Facebook*  
@@ -33,7 +36,6 @@
  [ICML2005, Microsoft]. *Learning to Rank using Gradient Descent*  
  [Report2010, MSRA]. *From RankNet to LambdaRank to LambdaMART-An overview*  
  [SIGIR2018]. Learning *a Deep Listwise Context Model for Ranking Refinement*  
- [IJCAJ2018, Alibaba]. *Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search*  
  [LTR预估：从慕名而来到一探深浅](https://fly-adser.top/2021/12/30/LTRpartA/)
  
  ## Other MLs 
