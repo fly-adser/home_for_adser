@@ -1,6 +1,3 @@
-# 一个广告策略算法工程师的自我修养
-更多资料和学习笔记，请移步博客：[Fly Adser](https://fly-adser.top/)
-
  ## 智能出价
  [IJCAI2017, Alibaba]. *Optimized Cost per Click in Taobao Display Advertising*   
  [KDD2019, Alibaba]. *Bid Optimization by Multivariable Control in Display Advertising*  
