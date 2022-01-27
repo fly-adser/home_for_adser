@@ -7,12 +7,16 @@
  
  ## 排序策略
  [ORSUM2019, Alibaba]. *Optimal Delivery with Budget Constraint in E-Commerce Advertising*    
- [KDD2020, LinkedIn]. *Ads Allocation in Feed via Constrained Optimization*    
+ [KDD2020, LinkedIn]. *[Ads Allocation in Feed via Constrained Optimization](https://fly-adser.top/2022/01/26/linkedinmerge/)*    
  [2020, KuaiShou]. *Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments*    
  [2021, Fly Adser]. *[多约束条件下的排序算法设计](https://fly-adser.top/2021/12/29/sortEquation/)*
  
  ## 重排算法
  [IJCAJ2018, Alibaba]. *Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search*  
+ 
+ ## 决策艺术
+ [2021, Fly Adser]. *[优化问题中的对偶理论](https://fly-adser.top/2021/12/28/linearProgram/)*  
+ [2021, Fly Adser]. *[PID控制算法](https://fly-adser.top/2021/12/28/PID/)*  
  
  ## CTR预估
  [ICDM2010, Steffen Rendle]. *Factorization Machines*   
