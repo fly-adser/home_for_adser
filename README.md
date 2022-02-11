@@ -39,9 +39,9 @@
  
  ## LTR预估
  [ICML2005, Microsoft]. *Learning to Rank using Gradient Descent*  
- [Report2010, MSRA]. *From RankNet to LambdaRank to LambdaMART-An overview*  
- [SIGIR2018]. Learning *a Deep Listwise Context Model for Ranking Refinement*  
- [2021, Fly Adser]. *[LTR预估：从慕名而来到一探深浅](https://fly-adser.top/2021/12/30/LTRpartA/)*
+ [Report2010, MSRA]. *From RankNet to LambdaRank to LambdaMART-An overview*   
+ [2021, Fly Adser]. *[LTR预估：从慕名而来到一探深浅](https://fly-adser.top/2021/12/30/LTRpartA/)*  
+ [2022, Fly Adser]. *[LTR预估：从一探深浅到实战演练](https://fly-adser.top/2022/02/06/LTRPartB/)*
  
  ## Other MLs 
  [KDD2016, Tianqi Chen]. *[XGBoost: A Scalable Tree Boosting System](https://fly-adser.top/2022/01/09/xgboost/)*
