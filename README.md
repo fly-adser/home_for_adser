@@ -13,6 +13,10 @@
  
  ## 重排算法
  [IJCAJ2018, Alibaba]. *Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search*  
+ [SIGIR2018, Qingyao Ai]. *Learning a Deep Listwise Context Model for Ranking Refinement*  
+ [RecSys2019, Alibaba]. *Personalized Re-ranking for Recommendation*  
+ [CIKM2020, Alibaba]. *EdgeRec-Recommender System on Edge in Mobile Taobao*  
+ [Artix2021, Alibaba]. *Revisit Recommender System in the Permutation Prospective* 
  
  ## 决策艺术
  [2021, Fly Adser]. *[优化问题中的对偶理论](https://fly-adser.top/2021/12/28/linearProgram/)*  
