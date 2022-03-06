@@ -16,7 +16,8 @@
  [SIGIR2018, Qingyao Ai]. *Learning a Deep Listwise Context Model for Ranking Refinement*  
  [RecSys2019, Alibaba]. *Personalized Re-ranking for Recommendation*  
  [CIKM2020, Alibaba]. *EdgeRec-Recommender System on Edge in Mobile Taobao*  
- [Artix2021, Alibaba]. *Revisit Recommender System in the Permutation Prospective* 
+ [Artix2021, Alibaba]. *Revisit Recommender System in the Permutation Prospective*   
+ [2022, Fly Adser]. *[基于上下文感知的重排序算法梳理](https://fly-adser.top/2022/03/06/rerankalg/)*
  
  ## 决策艺术
  [2021, Fly Adser]. *[优化问题中的对偶理论](https://fly-adser.top/2021/12/28/linearProgram/)*  
