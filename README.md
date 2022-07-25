@@ -23,6 +23,12 @@
  [2021, Fly Adser]. *[优化问题中的对偶理论](https://fly-adser.top/2021/12/28/linearProgram/)*  
  [2021, Fly Adser]. *[PID控制算法](https://fly-adser.top/2021/12/28/PID/)*  
  
+ ## 校准算法
+ (KDD2020, Alibaba). *Calibrating User Response Predictions in Online Advertising*  
+ (WWW2020, Tencent). *A Simple and Empirically Strong Method for Reliable Probabilistic Predictions*  
+ (WWW2022, Alibaba). *MBCT Tree-Based Feature-Aware Binning for Individual Uncertainty Calibration*  
+ [2022, Fly Adser]. *[广告pCTR校准机制](https://fly-adser.top/2022/01/20/ctrcali/)*
+ 
  ## CTR预估
  [ICDM2010, Steffen Rendle]. *Factorization Machines*   
  [KDD2014, Facebook]. *Practical Lessons from Predicting Clicks on Ads at Facebook*  
@@ -33,7 +39,6 @@
  [IJCAJ2017]. Attentional *Factorization Machines-Learning the Weight of Feature Interactions via Attention Networks*  
  [KDD2017, Geogle]. *Deep & Cross Network for Ad Click Predictions*  
  [KDD2018, Microsoft]. *xDeepFM-Combining Explicit and Implicit Feature Interactions for Recommender Systems*  
- [2022, Fly Adser]. *[广告pCTR校准机制](https://fly-adser.top/2022/01/20/ctrcali/)*
  
  ## CVR预估
  [SIGIR2018, Alibaba]. *Entire Space Multi-Task Model-An Effective Approach for Estimating Post-Click Conversion Rate*
