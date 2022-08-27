@@ -12,12 +12,12 @@
  [2021, Fly Adser]. *[多约束条件下的排序算法设计](https://fly-adser.top/2021/12/29/sortEquation/)* 
  
  ## 竞价环境预估 
- [KDD2014]. *Optimal real-time bidding for display*  
- [KDD2015]. *Bid landscape forecasting in online ad exchange marketplace*   
- [KDD2015]. *Predicting winning price in real time bidding with censored data*  
- [KDD2016]. *User response learning for directly optimizing campaign performance in display advertising*  
- [KDD2016]. *Functional bid landscape forecasting for display advertising*  
- [KDD2017]. *A gamma-based regression for winning price estimation in real-time bidding advertising*  
+ [KDD2014]. *Optimal Real-Time Bidding for Display Advertising*  
+ [KDD2015]. *Bid Landscape Forecasting in Online Ad Exchange Marketplace*   
+ [KDD2015]. *Predicting Winning Price in Real Time Bidding with Censored Data*  
+ [KDD2016]. *User Response Learning for Directly Optimizing Campaign Performance in Display Advertising*  
+ [KDD2016]. *Functional Bid Landscape Forecasting for Display Advertising*  
+ [KDD2017]. *A Gamma-Based Regression for Winning Price Estimation in Real-Time Bidding Advertising*  
  [KDD2018]. *Bidding Machine Learning to Bid for Directly Optimizing Profits in Display Advertising*  
  [KDD2019]. *Deep Landscape Forecasting for Real-time Bidding Advertising*
  
