@@ -9,7 +9,17 @@
  [ORSUM2019, Alibaba]. *Optimal Delivery with Budget Constraint in E-Commerce Advertising*    
  [KDD2020, LinkedIn]. *[Ads Allocation in Feed via Constrained Optimization](https://fly-adser.top/2022/01/26/linkedinmerge/)*    
  [2020, KuaiShou]. *Cold Start on Online Advertising Platforms: Data-Driven Algorithms and Field Experiments*    
- [2021, Fly Adser]. *[多约束条件下的排序算法设计](https://fly-adser.top/2021/12/29/sortEquation/)*
+ [2021, Fly Adser]. *[多约束条件下的排序算法设计](https://fly-adser.top/2021/12/29/sortEquation/)* 
+ 
+ ## 竞价环境预估 
+ [KDD2014]. *Optimal real-time bidding for display*  
+ [KDD2015]. *Bid landscape forecasting in online ad exchange marketplace*   
+ [KDD2015]. *Predicting winning price in real time bidding with censored data*  
+ [KDD2016]. *User response learning for directly optimizing campaign performance in display advertising*  
+ [KDD2016]. *Functional bid landscape forecasting for display advertising*  
+ [KDD2017]. *A gamma-based regression for winning price estimation in real-time bidding advertising*  
+ [KDD2018]. *Bidding Machine Learning to Bid for Directly Optimizing Profits in Display Advertising*  
+ [KDD2019]. *Deep Landscape Forecasting for Real-time Bidding Advertising*
  
  ## 重排算法
  [IJCAJ2018, Alibaba]. *Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search*  
