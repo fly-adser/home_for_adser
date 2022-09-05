@@ -31,7 +31,12 @@
  
  ## 决策艺术
  [2021, Fly Adser]. *[优化问题中的对偶理论](https://fly-adser.top/2021/12/28/linearProgram/)*  
- [2021, Fly Adser]. *[PID控制算法](https://fly-adser.top/2021/12/28/PID/)*  
+ [2021, Fly Adser]. *[PID控制算法](https://fly-adser.top/2021/12/28/PID/)*    
+ [2022, Fly Adser]. *[强化学习系列：算法基础](https://fly-adser.top/2022/07/17/rl21)*   
+ [2022, Fly Adser]. *[强化学习系列：TD训练算法](https://fly-adser.top/2022/07/17/rl2/)*    
+ [2022, Fly Adser]. *[强化学习系列：多智能体学习概念](https://fly-adser.top/2022/07/17/rl3/)*  
+ [2022, Fly Adser]. *[强化学习系列：策略梯度优化](https://fly-adser.top/2022/07/17/rl4/)*   
+ [2022, Fly Adser]. *[强化学习系列：连续控制问题](https://fly-adser.top/2022/07/17/rl5/)*   
  
  ## 校准算法
  (KDD2020, Alibaba). *Calibrating User Response Predictions in Online Advertising*  
