@@ -21,6 +21,15 @@
  [KDD2018]. *Bidding Machine Learning to Bid for Directly Optimizing Profits in Display Advertising*  
  [KDD2019]. *Deep Landscape Forecasting for Real-time Bidding Advertising*
  
+ ## 广告创意优化
+ [April2021, Alibaba]. *A Hybrid Bandit Model with Visual Priors for Creative Ranking in Display Advertising*  
+ [March2021, Alibaba]. *Efficient Optimal Selection for Composited Advertising Creatives with Tree Structure*  
+ [April2021, Alibaba]. *Automated Creative Optimization for E-Commerce Advertising*  
+ [SIGIR2022, Alibaba]. *[Joint Optimization of Ad Ranking and Creative Selection](https://dl.acm.org/doi/pdf/10.1145/3477495.3531855)*  
+ [NAACL2022, Alibaba]. *CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning*   
+ [SIGIR2022, Alibaba]. *Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding*   
+ [WeChat2022, ByteDance]. *[广告素材优选算法在内容营销中的应用实践](https://mp.weixin.qq.com/s/gVuG4mCqGxWBmS8GD6JZfw)*
+ 
  ## 重排算法
  [IJCAJ2018, Alibaba]. *Globally Optimized Mutual Influence Aware Ranking in E-Commerce Search*  
  [SIGIR2018, Qingyao Ai]. *Learning a Deep Listwise Context Model for Ranking Refinement*  
